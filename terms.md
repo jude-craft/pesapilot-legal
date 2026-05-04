@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated: May 4, 2026**
+**Last Updated: May 5, 2026**
 
 **1. Acceptance of Terms**
 By downloading and using PesaLens, you agree to these Terms of Service. If you do not agree, please do not use the app.
