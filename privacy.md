@@ -16,4 +16,4 @@ PesaPilot is a 100% offline, local-first application. **Your data never leaves y
 All transaction data and user preferences are stored securely in your device's local storage. You maintain complete control over your data. You can permanently delete all data at any time by using the "Delete All Data" function within the app's Settings menu, or by clearing the app's storage via your Android OS settings.
 
 **Contact Us**
-If you have questions about our privacy practices, please contact us at: jude.dev.apps@gmail.com
+If you have questions about our privacy practices, please contact us at: [jude.dev.apps@gmail.com](mailto:jude.dev.apps@gmail.com?subject=PesaPilot%20Privacy%20Question)
