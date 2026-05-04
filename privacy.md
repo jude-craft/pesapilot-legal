@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: May 4, 2026**
+**Last Updated: May 5, 2026**
 
 PesaLens ("we", "our", or "us") respects your privacy. This Privacy Policy explains how we handle your data when you use the PesaLens mobile application.
 
