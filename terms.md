@@ -15,4 +15,4 @@ You acknowledge that you use PesaPilot at your own risk. The developer of PesaPi
 You are responsible for maintaining the physical and digital security of your device. Because PesaPilot stores financial data locally, we strongly recommend enabling device-level security (PIN/Biometrics) and utilizing the in-app lock feature.
 
 **Contact Us**
-If you have questions about these terms, please contact us at: jude.dev.apps@gmail.com
+If you have questions about these terms, please contact us at: [jude.dev.apps@gmail.com](mailto:jude.dev.apps@gmail.com?subject=PesaPilot%20Terms%20Question)
